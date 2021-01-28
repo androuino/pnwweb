@@ -6,8 +6,8 @@ bin-release/
 
 # Other files and folders
 .settings/
-.idea/
-.gradle/
+.idea
+.gradle
 
 # Executables
 *.swf
